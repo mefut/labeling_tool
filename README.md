@@ -1,6 +1,3 @@
-# labeling_tool<img width="377" height="670" alt="Ekran görüntüsü 2026-01-08 184721" src="https://github.com/user-attachments/assets/d466ca3b-920b-4dcb-b81a-b8615688008a" />
-
-
 A lightweight OpenCV-based annotation tool designed for fast **GPR radargram** labeling.  
 It generates **YOLO-format** labels by clicking on hyperbola apex points and automatically creating fixed-size bounding boxes.
 
